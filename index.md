@@ -1,2 +1,3 @@
-{% include button.html url="Cocoloco.io.app.zip" %}
-{% include button.html url="coco_win32.zip" %}
+[Download MacOSX](Cocoloco.io.app.zip)
+
+[Download Windows](coco_win32.zip)
